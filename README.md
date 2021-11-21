@@ -1,4 +1,2 @@
 # WaterPoloLeagueBuilder
-Python script that takes in excel input and outputs a league fixture for a given number of teams and a given number of competitions.
-
-1. 
+Python script that returns a list of games that need to be played in any given competition, depending on the number of teams that enter each competition (see walkthrough.pdf for breakdown).
